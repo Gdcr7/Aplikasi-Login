@@ -5,4 +5,5 @@ Alur Fitur Login:
 2. Memvalidasi masukan.
 5. Menampilkan halaman home.
 
-**LOLOK AYAM KAU**
+**LOLOK AYAM KAU**  
+MEKI KUDA
