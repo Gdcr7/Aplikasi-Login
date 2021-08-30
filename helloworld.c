@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main()
+void main()
 {
  printf("Hello Guys, Elegiggle");
- return 0;
+ printf("\nFuckyourmom");
 };
